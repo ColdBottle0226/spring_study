@@ -1,4 +1,4 @@
-package me.bc.study.config;
+package me.bc.study.config.jwt;
 
 import lombok.Getter;
 import lombok.Setter;

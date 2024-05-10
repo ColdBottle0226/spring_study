@@ -1,4 +1,4 @@
-package me.bc.study.config;
+package me.bc.study.config.jwt;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Header;
@@ -9,6 +9,7 @@ import java.util.Collections;
 import java.util.Date;
 import java.util.Set;
 import lombok.RequiredArgsConstructor;
+import me.bc.study.config.jwt.JwtProperties;
 import me.bc.study.domain.User;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.Authentication;
