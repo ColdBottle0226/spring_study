@@ -1,0 +1,8 @@
+
+	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(Ú²É¾úÿÿÿÿ8…ºËæõ1J$846e06bb-1392-471a-8213-2b3cca54e841
+Š
+java:S1192'"GDefine a constant instead of duplicating this literal "/login" 3 times.(ç–ó8‡ºËæõ1J$d1eb7982-6f49-41ee-a9bf-16184942a856
+{
+java:S1874&"9Remove this use of "authorizeRequests"; it is deprecated.(õòï;8˜ºËæõ1J$d682125c-9860-4a6b-9d34-989833a134d7
+´
+java:S11307"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Ú²É¾úÿÿÿÿ8›ºËæõ1J$012a0191-0261-456b-98a7-b6285d1f3492
